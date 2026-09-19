@@ -3,13 +3,28 @@ An open-source, suction-type continuous wind tunnel engineered for low cost and 
 
 ---
 
-##Ensure your room has sufficient space to accommodate the assembled wind tunnel structure and proper airflow!
+> ⚠️ **Important Notes:**
+> * Ensure your room has sufficient space to accommodate the assembled wind tunnel structure and proper airflow!
+> * You may need to modify the CAD models to fit your specific 3D printer dimensions or hardware components.
+> * You will need to design a custom support frame based on your specific environment and perform system calibration prior to testing.
+> * If you need help, please contact me. Email: edisonlin2009@proton.me
 
-##You may need to modify the CAD models to fit your specific 3D printer dimensions or hardware components.
+---
 
-##You will need to design a custom support frame based on your specific environment and perform system calibration prior to testing.
+## 📂 Repository Structure (Directory Contents)
 
-##If you need help, please contact me. Email: edisonlin2009@proton.me
+| Directory / File | Description |
+| :--- | :--- |
+| **`CAD/`** | 3D printable `.stl` files and Fusion 360 source files (`.f3d`) for physical assembly. |
+| **`Contraction Cone/`** | Specifications and post-processing guide for the 3D-printed contraction section. |
+| **`Diffuser Section/`** | Dimensions and setup for the wooden expansion duct for pressure recovery. |
+| **`Gallery/`** | High-resolution photographs showcasing the physical assembly and individual modules. |
+| **`Power Section/`** | Arduino PWM control firmware (`.ino`), wiring guidelines, and fan array setup. |
+| **`Simulation/`** | ANSYS Discovery CFD analysis visualizations (velocity contours, streamlines). |
+| **`Straightening Section/`** | DIY instructions for the drinking straw honeycomb array and wire mesh. |
+| **`Test Section/`** | Specifications for the transparent acrylic observation area and sensor ports. |
+| **`PRICE_LIST.md`** | Detailed itemized Bill of Materials (BOM) with estimated USD costs. |
+| **`LICENSE`** | MIT License open-source legal information. |
 
 ---
 
