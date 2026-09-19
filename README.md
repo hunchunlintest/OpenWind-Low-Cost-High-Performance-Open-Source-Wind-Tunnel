@@ -10,10 +10,10 @@ An open-source, suction-type continuous wind tunnel engineered for low cost and 
     *   Plastic straws (1 cm diameter, aligned in a honeycomb pattern)
     *   Stainless steel wire mesh
 *   **Contraction Section (Contraction Cone)**:
-    *   3D printed components (PLA, modeled in Autodesk Fusion 360)
-    *   Wall putty / spackle (for sanding and smoothing the interior surface)
+    *   3D printed components (PLA)
+    *   Wall putty / spackle
 *   **Test Section (Observation Section)**:
-    *   Acrylic plates (Cross-section: 30 cm × 30 cm, Length: 40 cm)
+    *   Acrylic plates
     *   Pre-drilled ports for Pitot tube and smoke generator injection
 *   **Diffuser Section**:
     *   Tapered enclosure panels (Length: 120 cm)
