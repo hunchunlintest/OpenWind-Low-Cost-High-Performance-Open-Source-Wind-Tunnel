@@ -70,3 +70,8 @@ Obstacles using cylinders with diameters of `7mm`, `13mm`, and `19mm` yielded th
    * Larger obstacle width ➡️ Lower vortex shedding frequency.
 2. **High Wind Speed Deviation:** At higher wind speeds, measured frequencies were slightly **higher** than theoretical calculations.
    * **Inferred Cause (Venturi Effect):** Inserting the cylinder reduced the effective cross-sectional area of the flow channel, inducing a Venturi effect that caused local air speed past the cylinder to exceed the measured baseline flow velocity.
+
+## 4. Future Updates & Roadmap
+
+* [ ] Full 3D spatial velocity mapping across all test section grids.
+* [ ] Expanded dataset and complete test reports will be complemented in the next official release.
