@@ -9,26 +9,27 @@ The straightening section stabilizes incoming ambient air by eliminating large-s
 ## 📐 Dimensional Specifications
 
 * **Outer Frame Cross-Section**: $60\text{ cm} \times 60\text{ cm}$ (Matches the inlet opening of the contraction cone)
-* **Honeycomb Cell Diameter**: $10\text{ mm} (Recommended cell size)
-* **Honeycomb Depth**: $13\text{ cm}
-* **Damping Mesh / Screen**: Fine stainless steel mesh placed downstream/upstream of the honeycomb
+* **Honeycomb Cell Diameter**: $10\text{ mm}$ (Array constructed using densely packed drinking straws)
+* **Honeycomb Depth**: $13\text{ cm}$
+* **Damping Mesh / Screen**: Fine stainless steel wire mesh placed upstream and downstream of the straw honeycomb block
+* **Outer Frame Material**: Custom wooden enclosure framing
 
 ---
 
----
+## 🛠️ Material & DIY Manufacturing Guidelines
 
-## 🛠️ Material & Manufacturing Options
+The straightening section is constructed using accessible low-cost materials:
 
-You can build the straightening section using two primary methods:
-
-1. **Commercial Honeycomb Core + 3D Printed Frame (Recommended)**:
-   * **Honeycomb Material**: Aluminum or plastic honeycomb sheet (cut to fit $60\text{ cm} \times 60\text{ cm}$).
-   * **Assembly**: Secure the commercial honeycomb block into the 3D printed frame using structural brackets.
-2. **Fully 3D Printed Modular Honeycomb Grid**:
-   * If commercial honeycomb is unavailable, print the modular hexagonal grid sections included in the `/STL` folder and glue them together.
+1. **Wooden Outer Frame**:
+   * Build a robust $60\text{ cm} \times 60\text{ cm}$ inner-dimension box (with a depth of at least $13\text{ cm}$) using wooden panels to serve as the structural casing.
+2. **Drinking Straw Honeycomb Core**:
+   * **Material**: Standard plastic drinking straws ($10\text{ mm}$ diameter, cut to $13\text{ cm}$ lengths).
+   * **Assembly**: Bundle and align straws tightly in a parallel hexagonal pattern inside the wooden frame until the entire $60\text{ cm} \times 60\text{ cm}$ cross-section is completely filled. Secure the bundle edges with spray adhesive or side clamping panels.
+3. **Stainless Steel Screen Mesh**:
+   * Fasten fine stainless steel wire mesh onto both the front (intake) and rear (outlet) faces of the wooden frame to secure the straw matrix and further reduce flow fluctuations.
 
 ---
 
 ## ✏️ Customization & Modifications
 
-> ⚠️ **Important Note:** You can modify the outer frame flange dimensions or bolt pattern in `Honeycomb_Frame.f3d` to match custom intake screens or alternative honeycomb cell sizes.
+> ⚠️ **Important Note:** You can adjust the wooden panel thickness or overall frame depth to match alternative straw lengths or custom mounting flanges on the downstream contraction cone.
