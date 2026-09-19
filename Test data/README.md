@@ -2,12 +2,6 @@
 
 This document details the simulation, fabrication, and core experimental data for the wind tunnel, including long-term stability, wind speed linearity, turbulence intensity, and Kármán vortex street observations.
 
----
-
-## 📊 Table of Contents
-- [1. Long-Term Stability Test (60-Minute Continuous Operation)](#1-long-term-stability-test-60-minute-continuous-operation)
-- [2. Duty Cycle vs. Wind Speed in Central Test Area (3,3)](#2-duty-cycle-vs-wind-speed-in-central-test-area-33)
-- [3. Flow Field Uniformity & Kármán Vortex Street Observations](#3-flow-field-uniformity--kármán-vortex-street-observations)
 
 ---
 
