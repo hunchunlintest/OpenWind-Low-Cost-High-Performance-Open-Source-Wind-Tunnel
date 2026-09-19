@@ -10,7 +10,6 @@ Below are two key visualization results from our ANSYS Discovery analysis.
 <!-- IMPORTANT: Please rename the image filenames in this directory to match your actual uploaded file names and replace them in the paths below (e.g., replace './image_7.png' with './sim_full_streamlines.png'). -->
 
 ### 1. Wind Tunnel Flow Path Streamlines (Overview)
-![ANSYS Discovery Flow Path Streamlines](./image_7.png)
 
 *   **Description**: This full wind tunnel overview displays flow path streamlines colored by velocity magnitude. It demonstrates:
     *   Efficient flow acceleration through the 3D-printed contraction cone.
@@ -19,7 +18,6 @@ Below are two key visualization results from our ANSYS Discovery analysis.
 *   **Result**: The simulation indicates a smooth velocity increase from the straightener to the test section.
 
 ### 2. Test Section Velocity Contour (Cross-Section)
-![ANSYS Discovery Velocity Contour](./image_8.png)
 
 *   **Description**: This is a cross-sectional velocity contour plot taken directly from the acrylic test section. It is designed to verify:
     *   High flow uniformity across the 900 cm² (30 cm x 30 cm) working area.
