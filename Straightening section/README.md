@@ -15,12 +15,6 @@ The straightening section stabilizes incoming ambient air by eliminating large-s
 
 ---
 
-## 📂 Directory Contents
-
-* **`Honeycomb_Frame.f3d`** (or `.step`): CAD files for the outer holding frame and mesh clamping flanges.
-* **`/STL`**: Printable modular frame pieces, corner connectors, and honeycomb alignment guides.
-* **`Assembly_Guide.pdf`**: Detailed diagram for inserting mesh sheets and mounting the frame to the contraction cone.
-
 ---
 
 ## 🛠️ Material & Manufacturing Options
