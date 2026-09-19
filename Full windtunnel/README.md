@@ -4,6 +4,8 @@ This directory contains the complete assembly CAD models, render images, and ove
 
 It is designed to give users a clear high-level view of the full structure, component layout, and physical space requirements before manufacturing and assembly.
 
+##Some of the Detail is not in the CAD in this File!
+
 ---
 
 ## 📐 Overall Dimensions & Workspace Requirements
