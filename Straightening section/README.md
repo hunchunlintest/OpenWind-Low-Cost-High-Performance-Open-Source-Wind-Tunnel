@@ -4,6 +4,8 @@ This directory contains the CAD models, manufacturing specs, and assembly instru
 
 The straightening section stabilizes incoming ambient air by eliminating large-scale eddies, swirl, and non-uniform lateral velocities before the air enters the contraction cone.
 
+##The CAD in this File is without the pipes.
+
 ---
 
 ## 📐 Dimensional Specifications
