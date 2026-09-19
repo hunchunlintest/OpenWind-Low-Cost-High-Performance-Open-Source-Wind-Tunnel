@@ -56,20 +56,11 @@ This document details the simulation, fabrication, and core experimental data fo
 
 ---
 
-## 3. Flow Field Uniformity & Kármán Vortex Street Observations
+## 3. Flow Field Uniformity
 
-### 3.1 Turbulence Intensity (T.I.) Improvement
 * **Before Sanding:** Prior to polishing the contraction section, turbulence intensity across test areas was within `2%`.
 * **After Sanding:** Repeated applying of wall putty and fine sanding reduced turbulence intensity across all test areas to **below `1.6%`**, significantly improving flow uniformity.
-
-### 3.2 Kármán Vortex Street Observations
-Obstacles using cylinders with diameters of `7mm`, `13mm`, and `19mm` yielded the following observations:
-
-1. **Frequency vs. Velocity & Width:** Experimental results match theoretical equations.
-   * Higher wind speed ➡️ Higher vortex shedding frequency.
-   * Larger obstacle width ➡️ Lower vortex shedding frequency.
-2. **High Wind Speed Deviation:** At higher wind speeds, measured frequencies were slightly **higher** than theoretical calculations.
-   * **Inferred Cause (Venturi Effect):** Inserting the cylinder reduced the effective cross-sectional area of the flow channel, inducing a Venturi effect that caused local air speed past the cylinder to exceed the measured baseline flow velocity.
+  
 
 ## 4. Future Updates & Roadmap
 
