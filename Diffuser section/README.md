@@ -15,14 +15,6 @@ The diffuser is a tapered expansion duct designed to gradually decelerate high-v
 
 ---
 
-## 📂 Directory Contents
-
-* **`Diffuser_Assembly.f3d`** (or `.step`): Full 3D CAD source files for Fusion 360.
-* **`/STL`**: Printable adapter flanges, corner brackets, or panel joiners.
-* **`Diffuser_Panels.pdf`**: Engineering cutting layout and dimensional drawings for $2\text{ cm}$ sheet material fabrication.
-
----
-
 ## 🛠️ Fabrication & Assembly Guidelines
 
 Depending on your available tools and workspace, the 120 cm long diffuser can be built using sheet materials or 3D printed modular sections:
