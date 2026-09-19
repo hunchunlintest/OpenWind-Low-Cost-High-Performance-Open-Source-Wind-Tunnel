@@ -7,6 +7,8 @@ An open-source, suction-type continuous wind tunnel engineered for low cost and 
 
 ##You may need to modify the CAD models to fit your specific 3D printer dimensions or hardware components.
 
+##If you need help, please contact me. Email: edisonlin2009@proton.me
+
 ## 🛠️ Hardware & Bill of Materials (BOM)
 
 ### 1. Wind Tunnel Structure Modules
