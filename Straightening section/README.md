@@ -9,8 +9,8 @@ The straightening section stabilizes incoming ambient air by eliminating large-s
 ## 📐 Dimensional Specifications
 
 * **Outer Frame Cross-Section**: $60\text{ cm} \times 60\text{ cm}$ (Matches the inlet opening of the contraction cone)
-* **Honeycomb Cell Diameter**: $3\text{ mm} - 6\text{ mm}$ (Recommended cell size)
-* **Honeycomb Thickness/Depth**: $30\text{ mm} - 50\text{ mm}$ (Maintains an optimal length-to-diameter ratio $L/d \approx 6-10$)
+* **Honeycomb Cell Diameter**: $10\text{ mm} (Recommended cell size)
+* **Honeycomb Depth**: $13\text{ cm}
 * **Damping Mesh / Screen**: Fine plastic or stainless steel mesh placed downstream/upstream of the honeycomb
 
 ---
