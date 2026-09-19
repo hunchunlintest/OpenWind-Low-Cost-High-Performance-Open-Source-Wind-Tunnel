@@ -6,6 +6,27 @@ The contraction cone is a critical component designed to accelerate incoming air
 
 ---
 
+## 📂 Directory Contents & 3D Printing Quantities
+
+The contraction cone is split into 8 different zones and sub-blocks to fit standard desktop 3D printer build volumes. 
+
+> ⚠️ **Note on File Naming:** The number in parentheses `(xN)` inside the filename indicates the **required quantity to print** for that specific component.
+
+| File Name | Required Quantity | Description |
+| :--- | :---: | :--- |
+| **`WINDZONE1-1(x4).stl`** | 4 | Contraction Cone Zone 1 - Part 1 |
+| **`WINDZONE1-2(x8).stl`** | 8 | Contraction Cone Zone 1 - Part 2 |
+| **`WINDZONE2-1(x4).stl`** | 4 | Contraction Cone Zone 2 - Part 1 |
+| **`WINDZONE2-2(x8).stl`** | 8 | Contraction Cone Zone 2 - Part 2 |
+| **`WINDZONE3-1(x4).stl`** | 4 | Contraction Cone Zone 3 - Part 1 |
+| **`WINDZONE3-2(x4).stl`** | 4 | Contraction Cone Zone 3 - Part 2 |
+| **`WINDZONE4-1(x4).stl`** | 4 | Contraction Cone Zone 4 - Part 1 |
+| **`WINDZONE4-2(x4).stl`** | 4 | Contraction Cone Zone 4 - Part 2 |
+
+* **Total Printed Parts**: 40 individual pieces.
+
+---
+
 
 ## 🛠️ Manufacturing & Post-Processing (Crucial Step)
 
