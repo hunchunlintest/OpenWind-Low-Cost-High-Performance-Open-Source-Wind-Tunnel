@@ -3,6 +3,8 @@ An open-source, suction-type continuous wind tunnel engineered for low cost and 
 
 ---
 
+##You must make sure your room is big enough to put it in!
+
 ## 🛠️ Hardware & Bill of Materials (BOM)
 
 ### 1. Wind Tunnel Structure Modules
