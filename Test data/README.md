@@ -1,6 +1,6 @@
 #  Core Test Data
 
-This document details the simulation, fabrication, and core experimental data for the custom large-scale high-performance wind tunnel, including long-term stability, wind speed linearity, turbulence intensity, and Kármán vortex street observations.
+This document details the simulation, fabrication, and core experimental data for the wind tunnel, including long-term stability, wind speed linearity, turbulence intensity, and Kármán vortex street observations.
 
 ---
 
