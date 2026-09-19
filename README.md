@@ -1,5 +1,5 @@
 # OpenWind-Low-Cost-High-Performance-Open-Source-Wind-Tunnel
-An open-source, suction-type continuous wind tunnel engineered for low cost and easy assembly. Features a 900 cm² test section, CAD files, Arduino control firmware, and assembly guides. Optimized via ANSYS Discovery to deliver precise PWM speed control (up to 10 m/s) with high flow uniformity and low turbulence (T.I. &lt; 1.6%).
+An open-source, suction-type continuous wind tunnel engineered for low cost and easy assembly. Features a 900 cm² test section, CAD files, Arduino control firmware, and assembly guides. Optimized via ANSYS Discovery to deliver precise PWM speed control (up to 10 m/s) with high flow uniformity and low turbulence (T.I. < 1.6%).
 
 ---
 
@@ -7,7 +7,11 @@ An open-source, suction-type continuous wind tunnel engineered for low cost and 
 
 ##You may need to modify the CAD models to fit your specific 3D printer dimensions or hardware components.
 
+##You will need to design a custom support frame based on your specific environment and perform system calibration prior to testing.
+
 ##If you need help, please contact me. Email: edisonlin2009@proton.me
+
+---
 
 ## 🛠️ Hardware & Bill of Materials (BOM)
 
@@ -61,8 +65,8 @@ Replicated and measured experimentally, this setup achieves the following specif
 
 1. **Download CAD Files**: Clone this repository and navigate to the CAD directory to get the `.stl` files.
 2. **3D Printing & Post-Processing**: Print the contraction cone parts and assemble them. **Apply wall putty to the interior walls and sand repeatedly until smooth** to ensure low turbulence intensity.
-3. **Assemble Main Structure**: Connect the components in sequence: Straightener $\rightarrow$ Contraction Cone $\rightarrow$ Acrylic Test Section $\rightarrow$ Diffuser $\rightarrow$ Fan Power Section. Seal all joining edges to prevent air leaks.
+3. **Assemble Main Structure**: Connect the components in sequence: Straightener $\rightarrow$ Contraction Cone $\rightarrow$ Acrylic Test Section $\rightarrow$ Diffuser $\rightarrow$ Fan Power Section. Seal all joining edges to prevent air leaks. Secure the entire assembly onto your custom-built support frame.
 4. **Wiring & Firmware Flashing**:
    * Connect the Arduino UNO, APO-L3 PWM driver, LRS-350-24 power supply, and Snow Fans according to the provided circuit diagram.
    * Open Arduino IDE and upload the control script to the Arduino UNO.
-5. **Operation**: Power on the system and send PWM signals to achieve precise wind speed control.
+5. **Operation & Calibration**: Power on the system, send PWM signals to control fan speed, and use your measurement tools (e.g., Pitot tube) to calibrate the wind speed against the PWM output for your specific build environment.
