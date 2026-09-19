@@ -15,7 +15,6 @@ An open-source, suction-type continuous wind tunnel engineered for low cost and 
 
 | Directory / File | Description |
 | :--- | :--- |
-| **`CAD/`** | 3D printable `.stl` files and Fusion 360 source files (`.f3d`) for physical assembly. |
 | **`Contraction Cone/`** | Specifications and post-processing guide for the 3D-printed contraction section. |
 | **`Diffuser Section/`** | Dimensions and setup for the wooden expansion duct for pressure recovery. |
 | **`Gallery/`** | High-resolution photographs showcasing the physical assembly and individual modules. |
