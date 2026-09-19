@@ -3,7 +3,8 @@ An open-source, suction-type continuous wind tunnel engineered for low cost and 
 
 ---
 
-##Ensure your room has sufficient space to accommodate the assembled wind tunnel structure and proper airflow.!
+##Ensure your room has sufficient space to accommodate the assembled wind tunnel structure and proper airflow!
+
 ##You may need to modify the CAD models to fit your specific 3D printer dimensions or hardware components.
 
 ## 🛠️ Hardware & Bill of Materials (BOM)
