@@ -44,7 +44,6 @@ An open-source, suction-type continuous wind tunnel engineered for low cost and 
 ## 💻 Software & Files
 
 *   **Autodesk Fusion 360**: 3D structural model source files (`.f3d`) and printable files (`.stl`).
-*   **ANSYS Discovery**: Flow lines, cross-sectional wind speeds, and vector field simulation data for verification reference.
 *   **Arduino IDE**: Firmware for fan speed control via PWM (`.ino`).
 
 ---
