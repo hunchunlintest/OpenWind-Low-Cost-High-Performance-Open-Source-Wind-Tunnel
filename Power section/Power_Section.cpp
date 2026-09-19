@@ -1,3 +1,8 @@
+//This is the example code.
+//You can modify it based on your experimental design.
+
+
+
 //#include "arduino_secrets.h"
 
 // Hardware Pin and Constant Definitions
