@@ -15,6 +15,15 @@ The diffuser is a tapered expansion duct designed to gradually decelerate high-v
 
 ---
 
+## 📂 Directory Contents
+
+| File Name | Format | Description |
+| :--- | :---: | :--- |
+| **`擴散器部分.pdf`** | PDF | Engineering technical drawing detailing overall dimensions, panel layout, and hole patterns. |
+| **`擴散器部分.步驟`** | STEP (`.step`) | Standard 3D CAD exchange file for CAD editing or CAM/laser-cutting software import. |
+
+---
+
 ## 🛠️ Fabrication & Assembly Guidelines
 
 Depending on your available tools and workspace, the 120 cm long diffuser can be built using sheet materials or 3D printed modular sections:
