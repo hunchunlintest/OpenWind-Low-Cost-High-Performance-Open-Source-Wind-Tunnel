@@ -32,4 +32,4 @@ The interior surface quality of the contraction cone directly impacts the turbul
 
 ## ✏️ Customization & Modifications
 
-> ⚠️ **Important Note:** Depending on your 3D printer's build volume or specific structural needs, you may need to modify the CAD models (`.step`) to adjust the section splitting or wall thickness before printing.
+> ⚠️ **Important Note:** Depending on your 3D printer's build volume or specific structural needs, you may need to modify the CAD models to adjust the section splitting or wall thickness before printing.
