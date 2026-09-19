@@ -18,8 +18,8 @@ An open-source, suction-type continuous wind tunnel engineered for low cost and 
 *   **Diffuser Section**:
     *   Tapered enclosure panels (Length: 120 cm)
 
-### 2. Power & Control System
-*   **Fans**: Snow Fan YY20060H24 × 4
+### 2. Power & Control System (You can choose your own!)
+*   **Fans**: Snow Fan YY20060H24 × 4 
 *   **Microcontroller**: Arduino UNO × 1
 *   **Motor Driver**: APO-L3 PWM Controller × 1
 *   **Power Supply**: MEAN WELL LRS-350-24 (24V) × 1
