@@ -1,9 +1,8 @@
 # 🌪️ Simulation & CFD Analysis
 
-This directory contains Computational Fluid Dynamics (CFD) simulation results used to verify and optimize the aerodynamic performance of the OpenWind modular wind tunnel. All simulations focus on validating flow uniformity, velocity acceleration, and pressure recovery within the key sections.
-
+This directory contains Computational Fluid Dynamics (CFD) simulation results used to verify and optimize the aerodynamic performance of the OpenWind modular wind tunnel.
 ## 💻 Simulation Software
-The modeling, simulation, and visualization were conducted using **ANSYS Discovery Enterprise (Release 2026 R1)**, leveraging its rapid simulation capabilities to iterate on the contraction cone and diffuser designs.
+The modeling, simulation, and visualization were conducted using **ANSYS Discovery**, leveraging its rapid simulation capabilities to iterate on the contraction cone and diffuser designs.
 
 ## 📊 Key Results (Visualizations)
 Below are two key visualization results from our ANSYS Discovery analysis.
