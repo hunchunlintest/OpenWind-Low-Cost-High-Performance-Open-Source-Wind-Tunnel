@@ -8,11 +8,9 @@ The contraction cone is a critical component designed to accelerate incoming air
 
 ## 📂 Directory Contents
 
-*   **`/CAD`**: Source design files (`.f3d`, `.step`) modeled in Autodesk Fusion 360.
 *   **`/STL`**: Printable 3D mesh files (`.stl`) split into sub-blocks for standard desktop 3D printers.
 
 ---
-
 ## 🛠️ Manufacturing & Post-Processing (Crucial Step)
 
 The interior surface quality of the contraction cone directly impacts the turbulence intensity (T.I.) in the test section. To achieve a T.I. below **1.6%**, follow these post-processing steps:
@@ -20,9 +18,11 @@ The interior surface quality of the contraction cone directly impacts the turbul
 1. **3D Printing**:
    * **Material**: PLA (or ABS/PETG).
    * **Infill**: 15–20% is sufficient.
+     
 2. **Assembly**:
    * Align and glue the printed sub-blocks using strong adhesive (e.g., CA glue / Epoxy).
    * Ensure structural alignment along the interior contraction profile.
+     
 3. **Surface Smoothing (Required)**:
    * **Spackle / Wall Putty**: Apply wall putty or filler evenly across all interior seams and layer lines.
    * **Sanding**: Repeatedly sand the interior surface using progressively finer sandpaper (e.g., 200 $\rightarrow$ 400 $\rightarrow$ 800 grit) until completely smooth.
