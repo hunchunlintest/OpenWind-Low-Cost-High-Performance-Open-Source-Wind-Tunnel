@@ -8,7 +8,7 @@ The test section provides a clear, highly transparent chamber for optical flow v
 
 ## 📂 Directory Contents
 
-* **`TEST SECTION.pdf`** (or `.png` / `.dwg`): Full engineering technical drawing detailing dimensional tolerances, plate thicknesses, and hole layouts.
+* **`TEST SECTION.pdf`** : Full engineering technical drawing detailing dimensional tolerances, plate thicknesses, and hole layouts.
 
 ---
 
