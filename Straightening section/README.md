@@ -18,6 +18,16 @@ Notice: The CAD in this File is without the pipes.
 
 ---
 
+## 📂 Directory Contents
+
+| File Name | Format | Description |
+| :--- | :---: | :--- |
+| **`Straightening_Section.pdf`** | PDF | Technical engineering drawing showing dimensions of the wooden frame, straw honeycomb matrix, and mesh mounting layout. |
+| **`Straightening_Section.step`** | STEP (`.step`) | 3D CAD model of the outer wooden housing and assembly structure. |
+| **`README.md`** | Markdown | Assembly instructions, material breakdown, and geometric specs. |
+
+---
+
 ## 🛠️ Material & DIY Manufacturing Guidelines
 
 The straightening section is constructed using accessible low-cost materials:
