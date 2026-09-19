@@ -6,11 +6,7 @@ The contraction cone is a critical component designed to accelerate incoming air
 
 ---
 
-## 📂 Directory Contents
 
-*   **`/STL`**: Printable 3D mesh files (`.stl`) split into sub-blocks for standard desktop 3D printers.
-
----
 ## 🛠️ Manufacturing & Post-Processing (Crucial Step)
 
 The interior surface quality of the contraction cone directly impacts the turbulence intensity (T.I.) in the test section. To achieve a T.I. below **1.6%**, follow these post-processing steps:
