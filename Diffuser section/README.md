@@ -30,7 +30,7 @@ Depending on your available tools and workspace, the 120 cm long diffuser can be
 
 1. **Sheet Material Construction (Recommended)**:
    * **Materials**: $2\text{ cm}$ thick wood/MDF boards, acrylic panels, or dense plastic sheets.
-   * **Cutting**: Cut 4 trapezoidal panels according to the dimensions in `Diffuser_Panels.pdf` (taking the $2\text{ cm}$ material thickness into account for edge overlaps).
+   * **Cutting**: Cut 4 trapezoidal panels (taking the $2\text{ cm}$ material thickness into account for edge overlaps).
    * **Joining**: Fasten panels using heavy-duty screws, 3D printed corner braces, or aluminum brackets.
 2. **Air Tightness (Critical)**:
    * Apply silicone sealant or foam gasket tape along all internal longitudinal seams.
