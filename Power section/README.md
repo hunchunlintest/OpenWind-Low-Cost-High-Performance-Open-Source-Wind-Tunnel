@@ -10,6 +10,7 @@ The power section serves as the primary suction power source, drawing air throug
 
 | File Name | Format | Description |
 | :--- | :---: | :--- |
+| **`Power_Section.ino`** | Arduino (`.ino`) | Embedded C++ sample code for microcontroller PWM fan speed control, timer setup, and dynamic duty cycle mapping. |
 
 
 ---
