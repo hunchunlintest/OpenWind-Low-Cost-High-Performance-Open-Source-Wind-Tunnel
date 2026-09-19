@@ -20,7 +20,7 @@ The interior surface quality of the contraction cone directly impacts the turbul
    * **Infill**: 15–20% is sufficient.
      
 2. **Assembly**:
-   * Align and glue the printed sub-blocks using strong adhesive (e.g., CA glue / Epoxy).
+   * Assemble the printed sub-blocks using M8 screw.
    * Ensure structural alignment along the interior contraction profile.
      
 3. **Surface Smoothing (Required)**:
